@@ -20,6 +20,6 @@ def sum_of_two_digit_nums(plik):
 
     return sum
 
-input_file = 'input.txt'
+input_file = 'day1/input.txt'
 result = sum_of_two_digit_nums(input_file)
 print("Wynik to:", result)
